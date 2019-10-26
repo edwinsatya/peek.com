@@ -1,2 +1,2 @@
-# peek.com
-watching trailer movie
+# peek
+Watch Every Upcoming Movie Trailer For Free
